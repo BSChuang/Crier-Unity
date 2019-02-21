@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159004939312",
+    "firebase_url": "https://crierabc-bf743.firebaseio.com",
+    "project_id": "crierabc-bf743",
+    "storage_bucket": "crierabc-bf743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159004939312:android:858b498c45276b10",
+        "android_client_info": {
+          "package_name": "com.AuroraStudios.Crier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159004939312-oa931hr7kkuh9k4rdl6msrr0v7hf7brl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "159004939312-oa931hr7kkuh9k4rdl6msrr0v7hf7brl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1V8QFU1z7LcQQHRDpzTRkrgMTdOuy_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
